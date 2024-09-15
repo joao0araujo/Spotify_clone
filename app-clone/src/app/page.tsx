@@ -2,7 +2,7 @@
 export default function Home() {
   return (
     <div>
-      <p>Spotify</p>
+      <p className="text-green-500">Spotify</p>
     </div>
   );
 }
